@@ -1,0 +1,10 @@
+Title
+Author
+Text
+Note
+PageNo
+FigureNote
+TableNote
+Figure
+Table
+Cell
