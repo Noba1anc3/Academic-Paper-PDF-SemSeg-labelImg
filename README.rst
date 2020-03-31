@@ -1,15 +1,12 @@
 LabelImg
 ========
++ [需求文档](https://github.com/Noba1anc3/Academic-Paper-PDF-SemSeg/wiki/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2---%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7%E9%9C%80%E6%B1%82%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3---v1.0)
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
 
 .. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
         :target: https://travis-ci.org/tzutalin/labelImg
-
-.. image:: /resources/icons/app.png
-    :width: 200px
-    :align: center
 
 LabelImg is a graphical image annotation tool.
 
